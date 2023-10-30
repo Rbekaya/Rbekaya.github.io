@@ -1,0 +1,30 @@
+#secondh1 {
+    color: rgb(45, 83, 45);
+    background-color: rgb(142, 195, 230);  
+    margin: 0px;
+
+}
+
+#secondh1:hover {
+    background-color:rgba(249, 202, 100, 0.775);
+    color: black;
+  
+}
+
+p {
+    color: yellow;
+    background-color: rgba(160, 44, 44, 0.741);
+    margin: 0px;
+}
+
+#firstdiv {
+    background-color:  white;
+    width: max-content;
+    border-top: dashed rgb(171, 16, 16)  5px;
+    border-right: dashed green 5px;
+    border-bottom: dashed blue 5px;
+    border-left: dashed purple 5px;
+    border-radius: 10px;
+   
+}
+
